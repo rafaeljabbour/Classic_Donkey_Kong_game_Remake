@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{417989A0-F60B-4387-8FF6-D550E5E18916}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JABBOUR_ProjetFinal</RootNamespace>
+    <AssemblyName>JABBOUR_ProjetFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControleJeu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControleJeu.Designer.cs">
+      <DependentUpon>ControleJeu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeuxiemeNiveau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeuxiemeNiveau.Designer.cs">
+      <DependentUpon>DeuxiemeNiveau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnnemieSaute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnnemieSaute.Designer.cs">
+      <DependentUpon>EnnemieSaute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinGagne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinGagne.Designer.cs">
+      <DependentUpon>FinGagne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinJeu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinJeu.Designer.cs">
+      <DependentUpon>FinJeu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GagneJeu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GagneJeu.Designer.cs">
+      <DependentUpon>GagneJeu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GagneNiveau0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GagneNiveau0.Designer.cs">
+      <DependentUpon>GagneNiveau0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GagneNiveau1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GagneNiveau1.Designer.cs">
+      <DependentUpon>GagneNiveau1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GagneNiveau2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GagneNiveau2.Designer.cs">
+      <DependentUpon>GagneNiveau2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GagneNiveau3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GagneNiveau3.Designer.cs">
+      <DependentUpon>GagneNiveau3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PremierNiveau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremierNiveau.Designer.cs">
+      <DependentUpon>PremierNiveau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PagePrincipale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagePrincipale.Designer.cs">
+      <DependentUpon>PagePrincipale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuatriemeNiveau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuatriemeNiveau.Designer.cs">
+      <DependentUpon>QuatriemeNiveau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TroisiemeNiveau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TroisiemeNiveau.Designer.cs">
+      <DependentUpon>TroisiemeNiveau.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ControleJeu.resx">
+      <DependentUpon>ControleJeu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeuxiemeNiveau.resx">
+      <DependentUpon>DeuxiemeNiveau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnnemieSaute.resx">
+      <DependentUpon>EnnemieSaute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinGagne.resx">
+      <DependentUpon>FinGagne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinJeu.resx">
+      <DependentUpon>FinJeu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GagneJeu.resx">
+      <DependentUpon>GagneJeu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GagneNiveau0.resx">
+      <DependentUpon>GagneNiveau0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GagneNiveau1.resx">
+      <DependentUpon>GagneNiveau1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GagneNiveau2.resx">
+      <DependentUpon>GagneNiveau2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GagneNiveau3.resx">
+      <DependentUpon>GagneNiveau3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremierNiveau.resx">
+      <DependentUpon>PremierNiveau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagePrincipale.resx">
+      <DependentUpon>PagePrincipale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuatriemeNiveau.resx">
+      <DependentUpon>QuatriemeNiveau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TroisiemeNiveau.resx">
+      <DependentUpon>TroisiemeNiveau.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\barille.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioSauteGauche.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioCoursDroite.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioCoursGauche.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioSauteDroite.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\instrution2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\instruction2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\moyenBouleFeu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioFrappeDroite.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\marioFrappeGauche.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\bouleFeu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\gateau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Sauteur.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\dkstomp.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Got Hammer.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Hammer Hit.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Jump Barrel.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\jump.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Level Complete.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\run01.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\run02.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\run03.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Background.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\Dead.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\09 - Pause.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\01 - Donkey Kong Main Theme.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\02 - Donkey Kong Start.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\03 - How High Can You Get.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\11 - All Rounds Cleared.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\08 - Jumpman Theme 2.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\10 - Kong Dropped.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\02 - Donkey Kong Start.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\03 - How High Can You Get.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\08 - Jumpman Theme 2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\11 - All Rounds Cleared.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\10 - Kong Dropped.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\09 - Pause.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\01 - Donkey Kong Main Theme.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\02 Coin.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\audioMute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Audio play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\12 Donkey Kong Falling %281%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Audio\01 controls.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

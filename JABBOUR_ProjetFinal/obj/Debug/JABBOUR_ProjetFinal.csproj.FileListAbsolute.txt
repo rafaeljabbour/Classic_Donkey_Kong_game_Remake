@@ -1,0 +1,304 @@
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Form1.resources
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Form1.resources
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+F:\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Form1.resources
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Form1.resources
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\7 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\8 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\9 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\10 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\juin 11\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\13 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+E:\Evaluation finale\14 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\15 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneJeu.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\16 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneJeu.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+E:\Evaluation finale\18 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau0.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau1.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau2.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau3.resources
+C:\Coding\My USB code backup\Evaluation finale\19 juin\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinGagne.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe.config
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\bin\Debug\JABBOUR_ProjetFinal.pdb
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.AssemblyReference.cache
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.ControleJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.DeuxiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.EnnemieSaute.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinGagne.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.FinJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneJeu.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau0.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau1.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau2.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.GagneNiveau3.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PremierNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.PagePrincipale.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.Properties.Resources.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.QuatriemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.TroisiemeNiveau.resources
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.GenerateResource.cache
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.csproj.CoreCompileInputs.cache
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.exe
+C:\Coding\My USB code backup\Evaluation finale\Jabbour_DonkeyKong\JABBOUR_ProjetFinal\JABBOUR_ProjetFinal\obj\Debug\JABBOUR_ProjetFinal.pdb
